@@ -8,4 +8,3 @@
 - I am only here to occasionally contribute fixes or bug reports to certain projects. See other sites for _real_ work:
 	- [GitLab.com](https://gitlab.com/KaiBurghardt)
 	- [GitLab at my alma mater](https://gitlab.gwdg.de/kburgha)
-	- [xiph.org](https://gitlab.xiph.org/kb)
