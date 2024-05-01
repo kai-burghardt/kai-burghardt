@@ -1,10 +1,5 @@
-- GitHub sucks.
-  Micro$hit’s acquisition has cast serious doubt in GH’s credibility.
-  M$ has an abysmal track record on FLOSS.
-  It’s proven again and again they’re ultimately rooting _against_ open-source projects.
-  See for instance
-  - [ACPI sabotage consideration](https://wiki.endsoftwarepatents.org/wiki/Examples_of_use_for_sabotage#Microsoft)
-  - in general [criticism of Microsoft](https://en.wikipedia.org/wiki/Criticism_of_Microsoft) on Wikipedia
-- I am only here to occasionally contribute fixes or bug reports to certain projects. See other sites for _real_ work:
-	- [GitLab.com](https://gitlab.com/KaiBurghardt)
-	- [GitLab at my alma mater](https://gitlab.gwdg.de/kburgha)
+👋
+**This account has been retired**.
+An action triggered [mandatory two‑factor authentication](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/), yet _none_ of the second factor options are _accessible_ to me.
+
+→ [Codeberg](https://CodeBerg.org/kb), [Git Laboratory](https://GitLab.com/KaiBurghardt), [ORCID](https://ORCID.org/0000-0003-2117-3974), [Wikipedia](https://en.WikiPedia.org/wiki/User:Kai_Burghardt)
